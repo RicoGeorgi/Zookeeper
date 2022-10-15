@@ -125,7 +125,7 @@ fun main() {
 
         println()
         println("Please enter the number of the habitat (0 - 5) you would like to view.")
-        println("""Inputting 'exit' ends the program.""")
+        println("""Type 'exit' to end the program.""")
         print("> ")
 
         val s = readln()
